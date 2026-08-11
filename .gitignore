@@ -224,3 +224,7 @@ node_modules
 
 # macOS
 .DS_Store
+
+# Project documentation named "build" is intentional; keep generated build artifacts ignored.
+!docs/build/
+!docs/build/*.md
